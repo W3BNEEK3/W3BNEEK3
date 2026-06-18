@@ -13,4 +13,4 @@ I am a software developer specializing in building robust, scalable applications
 *   **tranzix.co (coming soon):** Built a robust transaction API utilizing NestJS and Prisma for strict type safety and data integrity.
 
 ### 📫 Let's Connect
-linkedIn link-https://www.linkedin.com/in/amos-seiyefa-4a5475293 • Email-cleverdraw5000@gmail.com
+linkedIn link-https://www.linkedin.com/in/amos-seiyefa-4a5475293 • Email- cleverdraw5000@gmail.com
